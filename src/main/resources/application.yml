@@ -1,7 +1,7 @@
 server:
   port: 80
 cors:
-  originPatterns: https://erizoka.github.io,http://localhost:8080,http://localhost:3000
+  originPatterns: https://erizoka.github.io,http://localhost,http://localhost:3000
 file: 
   upload-dir: /temp/ws-sts/rest with springboot/UploadDir
 security:
